@@ -5,16 +5,16 @@
 
 # Projects
 # Manhattan Project
-/manhattan     https://manhattan-project-uwbc.herokuapp.com/
-/manhattan-code https://github.com/mmcxii/manhattan-project
+/mp            https://manhattan-project-uwbc.herokuapp.com/
+/mpc           https://github.com/mmcxii/manhattan-project
 
 # Decked Out
-/deckedout      https://deckedout.herokuapp.com/
-/deckedout-code https://github.com/mmcxii/decked-out
+/do           https://deckedout.herokuapp.com/
+/doc          https://github.com/mmcxii/decked-out
 
 # Let's Taco 'Bout It
-/taco           https://mmcxii.github.io/lets-taco-bout-it/
-/taco-code      https://github.com/mmcxii/lets-taco-bout-it
+/t            https://mmcxii.github.io/lets-taco-bout-it/
+/tc           https://github.com/mmcxii/lets-taco-bout-it
 
 # Portfolio Site
 /*              https://secord.io/
